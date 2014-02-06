@@ -187,8 +187,7 @@
 						 <configuration>
 					 <serverId>nexus</serverId>
 			 <nexusUrl>http://192.168.150.55:8081/nexus/</nexusUrl>
-        <!-- explicit matching using the staging profile id -->
-        <stagingProfileId>129341e09f2ee275</stagingProfileId>
+      
       </configuration>
     </plugin>
 		</plugins>
