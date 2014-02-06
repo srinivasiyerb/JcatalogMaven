@@ -180,7 +180,7 @@
 </executions>
 <configuration>
 <serverId>nexus</serverId>
-<nexusUrl>http://localhost:8081/nexus/</nexusUrl>
+<nexusUrl>http://192.168.150.55:8081/nexus/</nexusUrl>
 <skipStaging>true</skipStaging>
 </configuration>
 </plugin>
